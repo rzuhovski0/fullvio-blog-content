@@ -1,0 +1,23 @@
+{
+    "id": 1,
+    "title": "ARTICLE TOPIC TITLE",
+    "author": "Author Name",
+    "date": "Jul 29, 2024",
+    "snippet": "Lorem ipsum dolor sit amet consectetur. Placerat ornare elementum sit hac in diam mauris a mi. Venenatis facilisis interdum morbi laoreet vel arcu sed tortor.",
+    "image": "https://mailrelay.com/wp-content/uploads/2018/03/que-es-un-blog-1.png",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": "Figma ipsum component variant main layer. Scrolling auto figam pencil object inspect. Style slice select bullet vector connection thumbnail union figam. Stroke auto figam arrow text rotate shadow blur export vector. Community selection boolean thumbnail edit. Font arrange duplicate pixel figam selection. Variant pencil rectangle create pixel auto. Flatten flatten scrolling flows create effect."
+      },
+      {
+        "type": "image",
+        "src": "https://mailrelay.com/wp-content/uploads/2018/03/que-es-un-blog-1.png",
+        "alt": "Blog Article Image"
+      },
+      {
+        "type": "paragraph",
+        "content": "Figma ipsum component variant main layer. Edit slice follower duplicate figma. Image arrow text pencil component. Share create duplicate fill pen union. Device shadow distribute group underline team boolean comment. Create share undo image hand. Link object object vector library editor background. Ipsum inspect select flatten group create connection arrow boolean opacity. Ipsum figam rectangle export main comment. Vertical ellipse opacity distribute distribute plugin bold figam list. Vector overflow share figma pen."
+      }
+    ]
+}
